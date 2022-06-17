@@ -1,0 +1,6 @@
+com/trybe/acc/java/planejamentodeviagem/ViagemTest.java
+ com.trybe.acc.java.planejamentodeviagem.ViagemTest
+com/trybe/acc/java/planejamentodeviagem/TempoTest.java
+ com.trybe.acc.java.planejamentodeviagem.TempoTest
+com/trybe/acc/java/planejamentodeviagem/VooTest.java
+ com.trybe.acc.java.planejamentodeviagem.VooTest

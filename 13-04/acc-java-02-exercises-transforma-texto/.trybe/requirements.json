@@ -1,0 +1,25 @@
+{
+  "requirements": [
+  
+    {
+      "description": "1 - Utiliza o método replace() para substituir caracter de uma String e o método split() para separar palavras por um caracter.",
+      "bonus": false
+    },
+    {
+      "description": "2 - Utiliza o método indexOf() para retornar a posição de um caracter e utiliza o método toUpperCase() para deixar uma String com caixa alta.",
+      "bonus": false
+    },
+    {
+      "description": "3 - Modifica o texto para caixa alta se a primeira ocorrência do caracter 'a' estiver em índice par.",
+      "bonus": false
+    },
+    {
+      "description": "4 - Retorna a primeira palavra se a primeira letra 'a' estiver em posição ímpar.",
+      "bonus": false
+    },
+    {
+      "description": "5 - As regras de espaço, do caracter 'a' e do caracter '+' foram aplicadas em conjunto.",
+      "bonus": false
+    }
+  ]
+}
