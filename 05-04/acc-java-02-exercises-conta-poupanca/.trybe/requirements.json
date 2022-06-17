@@ -1,0 +1,25 @@
+{
+    "requirements": [
+      {
+        "description": "1 - Criar uma classe ContaPoupanca",
+        "bonus": false
+      },
+      {
+        "description": "2 - Implementar o método 'depositar'",
+        "bonus": false
+      },
+      {
+        "description": "3 - Implementar o método 'sacar'",
+        "bonus": false
+      },
+      {
+        "description": "4 - Implementar o método 'mostrarSaldo'",
+        "bonus": false
+      },
+      {
+        "description": "5 - Implementar o método 'mostrarTitularConta'",
+        "bonus": false
+      }
+    ]
+}
+  
