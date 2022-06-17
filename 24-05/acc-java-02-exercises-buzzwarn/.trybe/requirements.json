@@ -1,0 +1,9 @@
+{
+    "requirements": [
+      {
+        "description": "1 - O método countLogger() deve gerar o log conforme o enunciado.",
+        "bonus": false
+      }
+    ]
+}
+  

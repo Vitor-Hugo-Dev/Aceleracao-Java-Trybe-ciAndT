@@ -1,0 +1,20 @@
+{
+  "requirements": [
+    {
+      "description": "Deve criar um estudante",
+      "bonus": false
+    },
+    {
+      "description": "Deve buscar um estudante pelo id",
+      "bonus": false
+    },
+    {
+      "description": "Deve atualizar um estudante pelo Id",
+      "bonus": false
+    },
+    {
+      "description": "Deve excluir um estudante pelo id",
+      "bonus": false
+    }
+  ]
+}

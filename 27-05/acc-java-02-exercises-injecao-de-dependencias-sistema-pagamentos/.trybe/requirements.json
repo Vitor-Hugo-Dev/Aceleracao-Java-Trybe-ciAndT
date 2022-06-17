@@ -1,0 +1,28 @@
+{
+    "requirements": [
+      {
+        "description": "1 - Deve validar se existe o bean AuthConfigService.",
+        "bonus": false
+      },
+      {
+        "description": "2 - Deve validar se existe o bean PagamentoService.",
+        "bonus": false
+      },
+      {
+        "description": "3 - Deve validar se existe o bean PagamentoRepository.",
+        "bonus": false
+      },
+      {
+        "description": "4 - Deve validar se existe o bean PagamentoController.",
+        "bonus": false
+      },
+      {
+        "description": "5 - Deve validar se existe esse endpoint com interceptor.",
+        "bonus": false
+      },
+      {
+        "description": "6 - Deve validar se existe esse endpoint sem interceptor.",
+        "bonus": false
+      }
+    ]
+  }

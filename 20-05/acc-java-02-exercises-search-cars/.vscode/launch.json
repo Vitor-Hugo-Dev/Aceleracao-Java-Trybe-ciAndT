@@ -1,0 +1,15 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot-CarsApplication<searchcar>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "mainClass": "com.trybe.search.cars.CarsApplication",
+      "projectName": "searchcar",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
+    }
+  ]
+}
